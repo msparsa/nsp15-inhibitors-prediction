@@ -89,16 +89,17 @@ If you find the models useful in your research, we ask that you cite the relevan
 
 ```bibtex
 @Article{D4RA06955B,
-author ="Bajaj, Teena and Mosavati, Babak and Zhang, Lydia H. and Parsa, Mohammad S. and Wang, Huanchen and Kerek, Evan M. and Liang, Xueying and Tabatabaei Dakhili, Seyed Amir and Wehri, Eddie and Guo, Silin and Desai, Rushil N. and Orr, Lauren M. and Mofrad, Mohammad R. K. and Schaletzky, Julia and Ussher, John R. and Deng, Xufang and Stanley, Robin and Hubbard, Basil P. and Nomura, Daniel K. and Murthy, Niren",
-title  ="Identification of acrylamide-based covalent inhibitors of SARS-CoV-2 (SCoV-2) Nsp15 using high-throughput screening and machine learning",
-journal  ="RSC Adv.",
-year  ="2025",
-volume  ="15",
-issue  ="13",
-pages  ="10243-10256",
-publisher  ="The Royal Society of Chemistry",
-doi  ="10.1039/D4RA06955B",
-url  ="http://dx.doi.org/10.1039/D4RA06955B"}
+  author ="Bajaj, Teena and Mosavati, Babak and Zhang, Lydia H. and Parsa, Mohammad S. and Wang, Huanchen and Kerek, Evan M. and Liang, Xueying and Tabatabaei Dakhili, Seyed Amir and Wehri, Eddie and Guo, Silin and Desai, Rushil N. and Orr, Lauren M. and Mofrad, Mohammad R. K. and Schaletzky, Julia and Ussher, John R. and Deng, Xufang and Stanley, Robin and Hubbard, Basil P. and Nomura, Daniel K. and Murthy, Niren",
+  title  ="Identification of acrylamide-based covalent inhibitors of SARS-CoV-2 (SCoV-2) Nsp15 using high-throughput screening and machine learning",
+  journal  ="RSC Adv.",
+  year  ="2025",
+  volume  ="15",
+  issue  ="13",
+  pages  ="10243-10256",
+  publisher  ="The Royal Society of Chemistry",
+  doi  ="10.1039/D4RA06955B",
+  url  ="http://dx.doi.org/10.1039/D4RA06955B"
+}
 ```
 
 ## Acknowledgments
